@@ -12,7 +12,7 @@
 ## using the default directory structure
 ##
 ## -----------------------------------------------------------------
-
+.vagrant
 # ignore everything in the root except the "wp-content" directory.
 /*
 !wp-content/
