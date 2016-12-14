@@ -11,3 +11,6 @@ Version: 1.0
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+.page-header-wrap.animate-fadeIn {
+	font-size: 6rem;
+}
